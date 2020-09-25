@@ -1,0 +1,80 @@
+@media screen and (max-width:768px){
+
+    .line1{
+        display: none;
+    }
+    .line2{
+        display: none;
+    }
+    .btn6{
+        display: none;
+    }
+    
+}
+
+
+    
+@media screen and (max-width:529px){
+    
+    .fitness{
+        padding-left: 65px;    
+    }
+    
+    
+}
+
+
+@media screen and (max-width:480px){
+    h1{
+            font-size: 24px;      
+    }
+    h2{
+            font-size: 20px; 
+    }
+    h3{
+        font-size: 17px; 
+    }
+    .fitness{
+        font-size: 15px !important; 
+        
+    }
+    .fitness-btn{
+        padding-left: 50px;
+        padding-top: 20px;
+        font-size:24px ;
+    }
+    .member{
+        height: 250px;
+    }
+    .member-p{
+        font-size: 12px !important;
+        font-weight: bold;
+        padding-top: 90px;
+        padding-left: 60px;
+        
+    
+    }
+    .btn3{
+        font-size: 8px !important;
+    }
+    .plan{
+        margin: 30px 0 !important;
+    }
+    .pricing{
+        height: 500px;
+        width: 250px;  
+    }
+    .num2{
+        font-size: 13px ;
+        font-weight: bold;
+        margin-bottom: 30px;
+    
+    }
+    .step{
+        margin-top: 10px;
+        padding-left: 13px;
+    }
+    .copy{
+        font-size: 13px;
+    }
+}
